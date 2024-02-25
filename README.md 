@@ -1,0 +1,57 @@
+
+```markdown
+# Mask Detection and Temperature Measurement
+
+**Created by:** Ahmed Said, Software Engineering
+
+## Project Overview
+
+This project implements a simple mask detection and temperature measurement system using Python and OpenCV. The system uses a pre-trained face detection model to identify faces in real-time through the device's camera. It then simulates temperature measurement and determines whether the person is wearing a mask or not.
+
+## Requirements
+
+Make sure you have the following dependencies installed before running the code:
+
+- OpenCV: `pip install opencv-python`
+- NumPy: `pip install numpy`
+
+## How to Use
+
+1. Clone the project:
+
+```bash
+git clone https://github.com/your-username/mask-detection.git
+cd mask-detection
+```
+
+2. Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the script:
+
+```bash
+python mask_detection.py
+```
+
+4. Use the system:
+
+   - The camera will open, and the system will start detecting faces.
+   - Simulated temperature measurement will be displayed along with the mask detection status.
+   - Press 'Esc' to exit the application.
+
+## Benefits
+
+- Simple and easy-to-understand code.
+- Utilizes pre-trained models for face detection and requires minimal setup.
+- Provides a basic example for educational purposes.
+- Demonstrates the integration of computer vision for mask detection.
+
+Feel free to customize the code for your specific needs or integrate it into a larger project.
+
+Happy coding!
+```
+
+Customize the names, URLs, and any additional details based on your preferences and the specifics of your project.
